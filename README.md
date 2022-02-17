@@ -6,6 +6,8 @@ A simple, barebones YouTube client designed to eliminate distractions.
 - No ads
 - No comments
 - No recommendations
+- Easy download
+- Playback speed control
 
 Built using the Invidious API, React, React-Bootstrap and ReactPlayer.
 
